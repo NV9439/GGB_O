@@ -499,5 +499,14 @@
       "side":2,
       "sideid1":"rbxassetid://14384298945",
       "sideid2":"rbxassetid:/14384302059"
+   },
+         {
+      "number":49,
+      "route":"MEET",
+      "front":1,
+      "frontid1":"rbxassetid://14298047287",
+      "controllerid1":"rbxassetid://14489913282",
+      "side":1,
+      "sideid1":"rbxassetid://14298047287"
    }
 ]
